@@ -7,7 +7,7 @@
 		text-align: center;
 		font-size: 2rem;
 		font-weight: bold;
-		width: 50px;
+		width:50px;
 	}
 </style>
 
